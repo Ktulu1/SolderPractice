@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 1/27/2014 6:19:01 PM
+
+BeginCmp
+TimeStamp = /52E587C3;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6DFA9;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E587B6;
+Reference = P3;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6DF9C;
+Reference = P4;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6E9A8;
+Reference = P5;
+ValeurCmp = CONN_7;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6E99B;
+Reference = P6;
+ValeurCmp = CONN_7;
+IdModule  = SIL-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E58A0A;
+Reference = U1;
+ValeurCmp = ADS1231;
+IdModule  = SO16N;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E5A312;
+Reference = U2;
+ValeurCmp = IS31AP4991;
+IdModule  = MSOP_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E6E98C;
+Reference = U3;
+ValeurCmp = CD4541B;
+IdModule  = tssop-14;
+EndCmp
+
+EndListe
